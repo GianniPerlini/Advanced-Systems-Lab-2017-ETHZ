@@ -1,0 +1,2 @@
+Configuration	Avg	Std Dev
+1mw3s8wt	601.21961398	6.38725187517
